@@ -1,8 +1,8 @@
 # SCOUT Recon Rover
 
-**SCOUT** is a prototype tracked reconnaissance rover designed to explore how a small autonomous/remote-controlled vehicle could detect and monitor its surroundings.
+**SCOUT** is a prototype tracked reconnaissance rover designed to explore how a small vehicle could detect and monitor its surroundings, with the potential for remote control and future autonomous operation.
 
-The project combines **3D-printed mechanical components, Arduino electronics, a Raspberry Pi Pico W, ultrasonic sensing, a servo-mounted radar system, and a web interface**.
+The project combines **3D-printed mechanical components, a Raspberry Pi Pico W, ultrasonic sensing, a servo-mounted radar system, and a web interface**.
 
 ## 🚀 What I Built
 
@@ -29,7 +29,7 @@ This creates a simple radar-style view of the rover's surroundings.
 
 The project uses:
 
-- **C++ / Arduino**
+- **C++ / Arduino framework**
 - **Raspberry Pi Pico W**
 - HTML / CSS / JavaScript
 - OpenSCAD for CAD
@@ -48,9 +48,9 @@ Some of the main components used include:
 
 SCOUT went through several design iterations, including changes to the rover's body and mechanical system.
 
-The project was built as a prototype, so not every subsystem reached the final working stage. The radar/sonar system and web interface were successfully demonstrated, while the tracked drive system remained a work in progress.
+The project was built as a prototype, so not every subsystem reached the final working stage. The **radar/sonar system and web interface were successfully demonstrated**, while the **tracked drive system remained a work in progress**.
 
-Documenting these limitations is part of the project: the goal is to show the **engineering process**, including experimentation, failed approaches and future improvements.
+Documenting these limitations is part of the project. The goal is to show the **engineering process**, including experimentation, failed approaches and future improvements.
 
 ## 📸 Project
 
