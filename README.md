@@ -14,7 +14,6 @@ The current prototype includes:
 - 🔊 **Proximity warning system**
 - 🛞 **Tracked rover design**
 - 🧩 **3D-printed components and custom CAD**
-- ⚡ Arduino-based electronics and motor control
 
 The project was developed as part of the **Imperial College London Maker Challenge**.
 
@@ -32,7 +31,6 @@ The project uses:
 
 - **C++ / Arduino**
 - **Raspberry Pi Pico W**
-- **Arduino Nano Every**
 - HTML / CSS / JavaScript
 - OpenSCAD for CAD
 
@@ -41,12 +39,9 @@ The project uses:
 Some of the main components used include:
 
 - Raspberry Pi Pico W
-- Arduino Nano Every
 - HC-SR04 ultrasonic sensor
 - SG90 micro servo
 - L298N motor driver
-- DC motors
-- Battery pack
 - 3D-printed rover components
 
 ## 🔧 Development
@@ -73,9 +68,9 @@ Possible future versions could include:
 - On-board camera
 - Autonomous navigation
 - Obstacle avoidance
-- Improved mechanical track system
+- Improved mechanical track system that actually works...
 
 ---
 
 **SCOUT Recon Rover**  
-Built, designed and tested by Sami.
+Built, designed and tested by Sami Magali.
