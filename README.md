@@ -74,3 +74,5 @@ Possible future versions could include:
 
 **SCOUT Recon Rover**  
 Built, designed and tested by Sami Magali.
+
+Third-party components: Some components used during development were sourced from Thingiverse. Their original creators and licenses are retained in the relevant files.
